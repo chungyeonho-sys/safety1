@@ -1,0 +1,2 @@
+# st.fragment(run_every=...) 와 st.rerun(scope) 사용
+streamlit>=1.37
